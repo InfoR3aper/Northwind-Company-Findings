@@ -38,6 +38,3 @@ There is a statistical difference between the quantity of a product ordered when
     
 ## Location of Analysis
 The location of the analysis can be found here: dsc-mod-3-project-online-ds-ft-081219/Module 3 Final Project.ipynb
-
-# Module-3-Project
-# Module_3_Project
